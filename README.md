@@ -1,4 +1,4 @@
-CHECK HERE: https://my-first-project-fcmn.onrender.com
+CHECK HERE: https://my-first-project-fcmn.onrender.com/listings
 
 # Project AirBnb
 
