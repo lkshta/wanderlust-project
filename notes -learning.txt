@@ -1,3 +1,5 @@
+CHECK HERE: https://my-first-project-fcmn.onrender.com/listings
+
 # Project AirBnb
 
 - **Reviews Model**
@@ -272,9 +274,8 @@ cookie
 - in this project we'll deploy using RENDER
 
 - Flow to deploy our project on RENDER
-
 1. local system to github ( pvt repo )
 2. github to render
 
 - DO NOT push .env file to github. Also no need to push node_modules folder as well.
-- using .gitignore
+- using .gitignore 
