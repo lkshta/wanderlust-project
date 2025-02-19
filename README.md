@@ -1,15 +1,21 @@
-# Project AirBnb
+Live Demo: https://my-first-project-fcmn.onrender.com/listings
 
-- **Reviews Model**
-- - comment : String
-- - rating : Number
-- - createdAt : date,time
+# WanderLust 
+- Project Description
 
-Creating Reviews:
+What your application does,
+Why you used the technologies you used,
+Some of the challenges you faced and features you hope to implement in the future.
 
-1. setting up review form
-2. submitting the form
+## Tech Stack
+## features
+## Preview/live demo
+## Getting started
+## acknowledgement 
+## contribution 
+## license
 
+<<<<<<< HEAD
 //Validations
 
 1. Client side validation: (using form) //bootstrap
@@ -278,3 +284,5 @@ cookie
 
 - DO NOT push .env file to github. Also no need to push node_modules folder as well.
 - using .gitignore
+=======
+>>>>>>> a70ee44fafc05afc475fa829f7e89c9f712a4903
